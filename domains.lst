@@ -438,9 +438,14 @@ x.com
 // ── Instagram и Meta ────────────────────────────
 
 cdninstagram.com
+facebook.com
+facebook.net
+fb.com
 fbcdn.net
+fbsbx.com
 igcdn.com
 instagram.com
+messenger.com
 
 // ── Другие мессенджеры ──────────────────────────
 
@@ -533,6 +538,7 @@ dashboard.algolia.com
 dashboard.gitguardian.com
 downloads.intercomcdn.com
 fivetran.com
+gitlab.com
 httptoolkit.com
 intercom.io
 joesandbox.com
@@ -545,6 +551,11 @@ se.com
 verificationacademy.com
 wetransfer.com
 xrite.com
+
+// ── Linux — Flathub и кодеки ─────────────────────
+
+ciscobinary.openh264.org
+flathub.org
 
 // ── Разное ──────────────────────────────────────
 
