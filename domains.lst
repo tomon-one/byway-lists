@@ -24,6 +24,7 @@ anthropic.qualtrics.com
 clau.de
 claude.ai
 claude.com
+claude.dev
 claudemcpclient.com
 claudemcpcontent.com
 claudeusercontent.com
@@ -44,6 +45,7 @@ cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
 flow.google
 geller-pa.googleapis.com
+gemini.google.com
 generativeai.google
 generativelanguage.googleapis.com
 jules.google
@@ -446,6 +448,21 @@ fbsbx.com
 igcdn.com
 instagram.com
 messenger.com
+
+// ── Discord (zapret2 не пробивает, 2026-10-01) ──
+
+dis.gd
+discord.com
+discord.dev
+discord.gg
+discord.gift
+discord.gifts
+discord.new
+discordapp.com
+discordapp.net
+discordcdn.com
+discordsays.com
+discordstatus.com
 
 // ── Другие мессенджеры ──────────────────────────
 
