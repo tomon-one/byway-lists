@@ -99,6 +99,10 @@ themes.googleusercontent.com
 waze.com
 withgoogle.com
 
+// ── YouTube — видео (провайдер режет адреса, 2026-10-26) ──
+
+googlevideo.com
+
 // ── Microsoft — вход и учётная запись ───────────
 
 b2clogin.com
